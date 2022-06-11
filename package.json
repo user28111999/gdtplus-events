@@ -1,0 +1,15 @@
+{
+	"id" : "gdtplus-events",
+	"name" : "[GDT+] Events",
+	"version" : "0.1.0",
+	"author" : {
+        "name": "28111999",
+        "email": "28111999@protonmail.com"
+    },
+	"description" : "Add more random (and some not!) events to Game Dev Tycoon",
+	"url" : "https://github.com/user28111999/gdtplus-events",
+	"main" : "./myScript.js",
+	"dependencies" : {
+		"gdt-modAPI":"0.1.x"
+	}
+}
